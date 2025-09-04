@@ -73,14 +73,23 @@ Enable IIS and required components (CGI, Common HTTP Features).
 <p>
 3. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) & Install the Rewrite Module (rewrite_amd64_en-US.msi)
 
+
+
 <img width="3804" height="1080" alt="Screenshot 2025-09-04 104825" src="https://github.com/user-attachments/assets/c4876767-6907-40f2-bd09-f9eee613dbe8" />
 
 <img width="1910" height="1080" alt="Screenshot 2025-09-04 105112" src="https://github.com/user-attachments/assets/d9f97a9e-bdcc-4714-b069-dd5cbd0b9589" />
 
 
 
-4. Install **MySQL** and configure a root password.  
+4. Install **MySQL** and configure a root password.
 
 
-</p>
+<img width="1920" height="1080" alt="Screenshot 2025-09-04 112606" src="https://github.com/user-attachments/assets/a9ca5f1f-8a02-4d89-9146-03e1a8fab984" />
+
+
+5. Install osTicket v1.15.8 & Reload IIS (Open IIS, Stop and Start the server)
+
+
+
+6. 
 <br />
