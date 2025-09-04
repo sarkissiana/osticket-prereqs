@@ -42,7 +42,7 @@ PHP Manager for IIS
 <h2>Installation Steps</h2>
 
 <p>
- width="1920" height="899" alt="Screenshot 2025-09-04 093653" src="https://github.com/user-attachments/assets/0e722963-00d7-4786-afa6-e49ea122f95d" 
+ <img width="1920" height="899" alt="Screenshot 2025-09-04 093653" src="https://github.com/user-attachments/assets/0e722963-00d7-4786-afa6-e49ea122f95d" />
 "/>
 </p>
 <p>
