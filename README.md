@@ -33,7 +33,7 @@ PHP Manager for IIS
 
 3. Install PHP Manager for IIS.
 
-4. Install and configure MySQL and HeidiSQL.
+4. Install and configure MySQL.
 
 5. Download and install osTicket from the official website.
 
@@ -71,10 +71,17 @@ Enable IIS and required components (CGI, Common HTTP Features).
 
 </p>
 <p>
-3. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+3. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) & Install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+<img <img width="3804" height="1080" alt="Screenshot 2025-09-04 104825" src="https://github.com/user-attachments/assets/c4876767-6907-40f2-bd09-f9eee613dbe8" />
+
+<img <img width="1910" height="1080" alt="Screenshot 2025-09-04 105112" src="https://github.com/user-attachments/assets/d9f97a9e-bdcc-4714-b069-dd5cbd0b9589" />
 
 
 
-Verify IIS by navigating to http://localhost..
+4. Install MySQL and HeidiSQL
+5. Install **MySQL** and configure a root password.  
+Use **HeidiSQL** to connect and manage databases.  
+
 </p>
 <br />
