@@ -95,10 +95,20 @@ Enable IIS and required components (CGI, Common HTTP Features).
  Install osTicket v1.15.8 & Reload IIS (Open IIS, Stop and Start the server)
 
 
-<img width="1916" height="1080" alt="Screenshot 2025-09-04 113113" src="https://github.com/user-attachments/assets/2ca37b6a-c065-4048-ab6a-5233d99f7079" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-04 113410" src="https://github.com/user-attachments/assets/2ac41fc2-1da9-470a-ad1c-91a3f29d3b61" />
+<img width="1906" height="1080" alt="Screenshot 2025-09-04 114732" src="https://github.com/user-attachments/assets/994cfeae-b9a0-4765-8979-99462b122716" />
+
 
  
 Download and install osTicket from the official website.
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-04 115222" src="https://github.com/user-attachments/assets/8b42eb27-84ab-4c29-b09b-46c71ceeb154" />
+
+
+
+
+7. Verify Installation  
+Log in to the osTicket Admin Panel
