@@ -79,9 +79,8 @@ Enable IIS and required components (CGI, Common HTTP Features).
 
 
 
-4. Install MySQL and HeidiSQL
-5. Install **MySQL** and configure a root password.  
-Use **HeidiSQL** to connect and manage databases.  
+4. Install **MySQL** and configure a root password.  
+
 
 </p>
 <br />
