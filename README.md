@@ -34,6 +34,9 @@ PHP Manager for IIS
 
 5. Download and install osTicket from the official website.
 
+6. Verify Installation
+
+
 <h2>Installation Steps</h2>
 
 <p>
@@ -59,18 +62,16 @@ Provision a Windows 10 VM on **Microsoft Azure** and connect using RDP.
 Enable IIS and required components (CGI, Common HTTP Features).  
 
 
-</p>
-<br />
 
 
-<p>
+
+
  <img width="1920" height="1080" alt="Screenshot 2025-09-04 103943" src="https://github.com/user-attachments/assets/1b5a4bcb-8ff6-4f65-8eba-a80bdb1d3d6e" />
  <img width="1916" height="1080" alt="Screenshot 2025-09-04 104024" src="https://github.com/user-attachments/assets/92bdcdc0-2044-45b5-add6-6b2013dff738" />
 
 
 
-</p>
-<p>
+
 3. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) & Install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 
@@ -100,7 +101,7 @@ Enable IIS and required components (CGI, Common HTTP Features).
 
 
  
-Download and install osTicket from the official website.
+5. Download and install osTicket from the official website.
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
@@ -110,5 +111,5 @@ On the right, click “Browse *:80”
 
 
 
-7. Verify Installation  
+6. Verify Installation  
 Log in to the osTicket Admin Panel
