@@ -43,6 +43,7 @@ PHP Manager for IIS
 
 <p>
  <img width="1920" height="899" alt="Screenshot 2025-09-04 093653" src="https://github.com/user-attachments/assets/0e722963-00d7-4786-afa6-e49ea122f95d" />
+<img <img width="1909" height="1080" alt="Screenshot 2025-09-04 102432" src="https://github.com/user-attachments/assets/44228f19-1415-41db-ab3f-6b06e7e45a2b" />
 
 </p>
 <p>
