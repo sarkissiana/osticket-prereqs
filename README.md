@@ -31,13 +31,11 @@ PHP Manager for IIS
 
 2. Enable IIS (Internet Information Services) in Windows.
 
-3. Install Web Platform Installer and necessary IIS components.
+3. Install PHP Manager for IIS.
 
-4. Install PHP Manager for IIS.
+4. Install and configure MySQL and HeidiSQL.
 
-5. Install and configure MySQL and HeidiSQL.
-
-6. Download and install osTicket from the official website.
+5. Download and install osTicket from the official website.
 
 <h2>Installation Steps</h2>
 
@@ -64,15 +62,18 @@ Provision a Windows 10 VM on **Microsoft Azure** and connect using RDP.
 Enable IIS and required components (CGI, Common HTTP Features).  
 
 
-Verify IIS by navigating to http://localhost.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1920" height="1080" alt="Screenshot 2025-09-04 103943" src="https://github.com/user-attachments/assets/1b5a4bcb-8ff6-4f65-8eba-a80bdb1d3d6e" />
+<img <img width="1916" height="1080" alt="Screenshot 2025-09-04 104024" src="https://github.com/user-attachments/assets/92bdcdc0-2044-45b5-add6-6b2013dff738" />
+
 </p>
 <p>
-Open Windows Features → Enable IIS + CGI.
+3. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+
 
 Verify IIS by navigating to http://localhost..
 </p>
