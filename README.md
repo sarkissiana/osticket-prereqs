@@ -53,8 +53,8 @@ Provision a Windows 10 VM on **Microsoft Azure** and connect using RDP.
 <br />
 
 <p>
-<img <img width="1916" height="1080" alt="Screenshot 2025-09-04 103101" src="https://github.com/user-attachments/assets/1731dfcd-42e3-4c40-82a9-9bf7a467cf9c" />
-<img <img width="1916" height="1080" alt="Screenshot 2025-09-04 103423" src="https://github.com/user-attachments/assets/988b8e5f-8dd2-430a-9745-cd7d04d1dfa4" />
+ <img width="1916" height="1080" alt="Screenshot 2025-09-04 103101" src="https://github.com/user-attachments/assets/1731dfcd-42e3-4c40-82a9-9bf7a467cf9c" />
+ <img width="1916" height="1080" alt="Screenshot 2025-09-04 103423" src="https://github.com/user-attachments/assets/988b8e5f-8dd2-430a-9745-cd7d04d1dfa4" />
 
 </p>
 <p>
@@ -66,16 +66,16 @@ Enable IIS and required components (CGI, Common HTTP Features).
 <br />
 
 <p>
-<img <img width="1920" height="1080" alt="Screenshot 2025-09-04 103943" src="https://github.com/user-attachments/assets/1b5a4bcb-8ff6-4f65-8eba-a80bdb1d3d6e" />
-<img <img width="1916" height="1080" alt="Screenshot 2025-09-04 104024" src="https://github.com/user-attachments/assets/92bdcdc0-2044-45b5-add6-6b2013dff738" />
+ <img width="1920" height="1080" alt="Screenshot 2025-09-04 103943" src="https://github.com/user-attachments/assets/1b5a4bcb-8ff6-4f65-8eba-a80bdb1d3d6e" />
+ <img width="1916" height="1080" alt="Screenshot 2025-09-04 104024" src="https://github.com/user-attachments/assets/92bdcdc0-2044-45b5-add6-6b2013dff738" />
 
 </p>
 <p>
 3. Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) & Install the Rewrite Module (rewrite_amd64_en-US.msi)
 
-<img <img width="3804" height="1080" alt="Screenshot 2025-09-04 104825" src="https://github.com/user-attachments/assets/c4876767-6907-40f2-bd09-f9eee613dbe8" />
+<img width="3804" height="1080" alt="Screenshot 2025-09-04 104825" src="https://github.com/user-attachments/assets/c4876767-6907-40f2-bd09-f9eee613dbe8" />
 
-<img <img width="1910" height="1080" alt="Screenshot 2025-09-04 105112" src="https://github.com/user-attachments/assets/d9f97a9e-bdcc-4714-b069-dd5cbd0b9589" />
+<img width="1910" height="1080" alt="Screenshot 2025-09-04 105112" src="https://github.com/user-attachments/assets/d9f97a9e-bdcc-4714-b069-dd5cbd0b9589" />
 
 
 
