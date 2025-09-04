@@ -42,7 +42,8 @@ PHP Manager for IIS
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=<img width="1920" height="899" alt="Screenshot 2025-09-04 093653" src="https://github.com/user-attachments/assets/355ef66f-7594-4f76-991d-01a448e7b05e" />
+"/>
 </p>
 <p>
 Provision a Windows 10 VM on Microsoft Azure.
