@@ -58,7 +58,9 @@ Provision a Windows 10 VM on **Microsoft Azure** and connect using RDP.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open Windows Features → Enable IIS + CGI.
+2. Enable IIS (Internet Information Services)  
+Enable IIS and required components (CGI, Common HTTP Features).  
+Verify by browsing to `http://localhost`. 
 
 Verify IIS by navigating to http://localhost.
 </p>
